@@ -1,0 +1,1 @@
+Temporary Redirect. Redirecting to /api/resolve-cache/models/nomic-ai/nomic-bert-2048/7710840340a098cfb869c4f65e87cf2b1b70caca/configuration_hf_nomic_bert.py?%2Fnomic-ai%2Fnomic-bert-2048%2Fresolve%2Fmain%2Fconfiguration_hf_nomic_bert.py=&etag=%2221fe6acc1eeed0f9cd9355219cbfeb3b193efc73%22
